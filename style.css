@@ -47,8 +47,8 @@ section {
 
 /*Image 5 (Officers)*/
 .bgimg-5 {
-    background-image: url("images/2018_officers.jpg");
-    min-height: 600px;
+    background-image: url("images/2018_officer_bbq.jpg");
+    min-height: 100%;
 }
 
 .w3-wide {letter-spacing: 10px;}
@@ -164,5 +164,10 @@ section {
 table {
   margin: auto;
   padding: 10px;
+  text-align: center;
+}
+
+.center {
+  margin: auto;
   text-align: center;
 }
