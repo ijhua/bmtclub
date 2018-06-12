@@ -26,3 +26,8 @@ function toggleFunction() {
 $(function(){
   $("#nav-placeholder").load("nav.html");
 });
+
+//Used to load the footer
+$(function(){
+  $("#footer-placeholder").load("footer.html");
+});
