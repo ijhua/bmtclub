@@ -60,6 +60,25 @@ body, html {
 #dummy {
   display: none;
 }
+.button{
+    background-color: inherit;
+    border: solid #4b2e83;
+    color: #4b2e83;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1:hover {
+    background-color: #4b2e83;
+    color: white;
+    border: 2px solid #4b2e83;
+}
 </style>
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -100,7 +119,19 @@ body, html {
 <!-- Container (Announcements Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ANNOUNCEMENTS</h3>
-  <p>Thanks everyone for a great year! We'll have information about summer practice soon.</p>
+  <p>Thanks everyone for a great year! Enjoy your summer!</p>
+  <p>
+    Summer practices will be held Mondays and Thursdays from 6:30 PM - 9:30 PM starting Monday June 18th, and ending on Thursday August 16th. Membership dues will be $20 for the quarter. 
+  </p>
+  <p>
+    Practice is cancelled on Monday, July 2 for the Special Olympics. 
+  </p>
+  <p>
+    Note: A few practice days are modified due to a basketball camp. <br />
+    On Thursday, August 9th, practice will be from 7:45 PM - 9:30 PM. <br />
+    On Monday, August 13th, practice will be from 7:45 PM - 9:30 PM. <br />
+    On Thursday, August 16th, practice will be from  6:45 PM - 9:30 PM. <br />
+  </p>
 </div>
 
 <!-- Parallax Image with about Text -->
@@ -114,6 +145,15 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT US</h3>
   <p>We are a group of UW students devoted to the sport of badminton. This club is an effort to support and encourage the large community of badminton players at the university. We have undergraduate and graduate students from various majors as well as some very active alumni. We welcome players of all skill levels seeking to either improve their game or to practice competitive games or to just have FUN! We are also committed to create strong, lasting relations with other badminton clubs in the US.</p>
+  <h3 class="w3-center">WHERE WE PRACTICE</h3>
+  <p>
+    We normally practice in Gym B at the UW Intramural Activities Building. On weekdays, we have 4 courts on the East half of the gym, and on weekends, we have the entire gym, with 8 courts. 
+  </p>
+  <div>
+    <button class = "button button1" style = "  margin:auto;display:block;" href = 'https://goo.gl/maps/ZHkQSBAuf5T2'>See on Google Maps</button>
+    
+  </div>
+  
 </div>
 
 
@@ -156,7 +196,7 @@ body, html {
       Fill out the UW Intramural Activities Waiver (only applies to those with IMA membership).
     </li>
     <li>
-      Pay the membership fee. 
+      Pay the membership fee. For summer quarter, the fee is $20. 
     </li>
   </ol>
 
@@ -196,6 +236,9 @@ body, html {
     <div class="w3-col m8 w3-panel">
       <div class="w3-large w3-margin-bottom">
         <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge"></i> Email: husky.badminton<span id="dummy">REMOVE</span>@gmail<span id="dummy">REMOVE</span>.com<br>
+        <i class="fa fa-facebook-official w3-hover-text-black w3-xlarge"></i> Facebook: <a href="https://www.facebook.com/HuskyBadminton/">Husky Badminton Club</a><br />
+        <i class="fa fa-facebook-official w3-hover-text-black w3-xlarge"></i> Facebook: <a href="https://www.facebook.com/groups/138305933451331/">2017-2018 Group</a><br />
+        
       </div>
     </div>
   </div>
@@ -209,7 +252,7 @@ body, html {
   </div>
 </footer>
  
-<!-- Add Google Maps -->
+
 <script>
 // Change style of navbar on scroll
 window.onscroll = function() {myFunction()};
