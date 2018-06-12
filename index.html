@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<title>Husky Badminton Club</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+    height: 100%;
+    color: #777;
+    line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+    background-image: url('images/2018_group_wide.png');
+    min-height: 100%;
+}
+
+/* Second image (Join) */
+.bgimg-2 {
+    background-image: url("images/tourney.jpg");
+    min-height: 400px;
+}
+
+/* Third image (Contact) */
+.bgimg-3 {
+    background-image: url("images/2018_bbq_group.jpg");
+    min-height: 400px;
+}
+/*Image 4 (Announcements)*/
+.bgimg-4 {
+    background-image: url("images/stock.jpg");
+    min-height: 400px;
+}
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+.domain::before {
+  content: "\0040";    /* Unicode character for @ symbol */
+}
+#dummy {
+  display: none;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar" id="myNavbar">
+    <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <a href="#home" class="w3-bar-item w3-button">HOME</a>
+    <a href="#announcements" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-bullhorn"></i> ANNOUNCEMENTS</a>
+    <a href="#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-question-circle"></i> ABOUT</a>
+    <a href="#join" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-users"></i> JOIN</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-address-card"></i> CONTACT</a>
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+    <a href="#announcements" class="w3-bar-item w3-button" onclick="toggleFunction()">ANNOUNCEMENTS</a>
+    <a href="#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
+    <a href="#join" class="w3-bar-item w3-button" onclick="toggleFunction()">JOIN</a>
+    <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
+  </div>
+</div>
+
+<!-- First Parallax Image with Logo Text -->
+<div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+  <div class="w3-display-middle" style="white-space:nowrap;">
+    <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">HUSKY <span class="w3-hide-small">BADMINTON</span> CLUB</span>
+  </div>
+</div>
+
+
+
+<!-- Container (Announcements Section) -->
+<div class="w3-content w3-container w3-padding-64" id="about">
+  <h3 class="w3-center">ANNOUNCEMENTS</h3>
+  <p>Thanks everyone for a great year! We'll have information about summer practice soon.</p>
+</div>
+
+<!-- Parallax Image with about Text -->
+<div class="bgimg-4 w3-display-container w3-opacity-min">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-white w3-wide">ABOUT</span>
+  </div>
+</div>
+
+<!-- Container (About Section) -->
+<div class="w3-content w3-container w3-padding-64" id="about">
+  <h3 class="w3-center">ABOUT US</h3>
+  <p>We are a group of UW students devoted to the sport of badminton. This club is an effort to support and encourage the large community of badminton players at the university. We have undergraduate and graduate students from various majors as well as some very active alumni. We welcome players of all skill levels seeking to either improve their game or to practice competitive games or to just have FUN! We are also committed to create strong, lasting relations with other badminton clubs in the US.</p>
+</div>
+
+
+<!-- Second Parallax Image with JOIN Text -->
+<div class="bgimg-2 w3-display-container w3-opacity-min">
+  <div class="w3-display-middle">
+    <span class="w3-xxlarge w3-text-white w3-wide">JOIN</span>
+  </div>
+</div>
+
+<!-- Container (JOIN Section) -->
+<div class="w3-content w3-container w3-padding-64" id="JOIN">
+  <h3 class="w3-center">COME PLAY WITH US!</h3>
+  <p class="w3-center">WHY YOU SHOULD JOIN US</p>
+  <p>Benefits of joining our club:</p>
+  <ul>
+    <li>
+      We're a welcoming community of badminton players of all skill levels
+    </li>
+    <li>
+      Courts are reserved for club members during practice
+    </li>
+    <li>
+      You'll have the opportunity to train under our wonderful coaches
+    </li>
+    <li>
+      Tournament-grade shuttles are provided for club use
+    </li>
+  </ul>
+  <p>
+    If you're still not sure if you want to join the club, stop by Gym B and try us out!
+  </p>
+  <p class="w3-center">HOW TO JOIN</p>
+  <p>Three easy steps to joining the Husky Badminton Club:</p>
+  <ol>
+    <li>
+      Fill out the membership form. 
+    </li>
+    <li>
+      Fill out the UW Intramural Activities Waiver (only applies to those with IMA membership).
+    </li>
+    <li>
+      Pay the membership fee. 
+    </li>
+  </ol>
+
+  <p class="w3-center">FAQ</p>
+  <p>
+    <b>Q:</b> I don't have my own racket or shuttles, can I still come to club?
+  </p>
+  <p>
+    <b>A:</b> Yes! The IMA has rackets you can loan, and the club provides shuttles to play with
+  </p>
+  <p>
+    <b>Q:</b> I'm not affiliated with UW. Can I come to club?
+  </p>
+  <p>
+    <b>A:</b> Yes! Everyone is welcome to come play in the club. You will need to be sponsored each time you want to use the IMA. 
+  </p>
+</div>
+
+</div>
+
+<!-- Third Parallax Image with CONTACT Text -->
+<div class="bgimg-3 w3-display-container w3-opacity-min">
+  <div class="w3-display-middle">
+     <span class="w3-xxlarge w3-text-white w3-wide">CONTACT</span>
+  </div>
+</div>
+
+
+<!-- Container (Contact Section) -->
+<div class="w3-content w3-container w3-padding-64" id="contact">
+  <h3 class="w3-center">CONTACT US</h3>
+  <p class="w3-center"><em>Got a question?</em></p>
+
+  <div class="w3-row w3-padding-32 w3-section">
+    <div class="w3-col m4 w3-container">
+    </div>
+    <div class="w3-col m8 w3-panel">
+      <div class="w3-large w3-margin-bottom">
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge"></i> Email: husky.badminton<span id="dummy">REMOVE</span>@gmail<span id="dummy">REMOVE</span>.com<br>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
+  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  </div>
+</footer>
+ 
+<!-- Add Google Maps -->
+<script>
+// Change style of navbar on scroll
+window.onscroll = function() {myFunction()};
+function myFunction() {
+    var navbar = document.getElementById("myNavbar");
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        navbar.className = "w3-bar" + " w3-card" + " w3-animate-top" + " w3-white";
+    } else {
+        navbar.className = navbar.className.replace(" w3-card w3-animate-top w3-white", "");
+    }
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function toggleFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+
+
+</body>
+</html>
