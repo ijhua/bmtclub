@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html>
-<title>Husky Badminton Club</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <title>Husky Badminton Club</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+</head>
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
 body, html {
     height: 100%;
     color: #777;
     line-height: 1.8;
+}
+section {
+  display: block;
+  position: relative;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 
 /* Create a Parallax Effect */
@@ -54,9 +66,6 @@ body, html {
         background-attachment: scroll;
     }
 }
-.domain::before {
-  content: "\0040";    /* Unicode character for @ symbol */
-}
 #dummy {
   display: none;
 }
@@ -79,10 +88,31 @@ body, html {
     color: white;
     border: 2px solid #4b2e83;
 }
+.column {
+    float: left;
+    width: 33.33%;
+    margin: auto;
+    display: block;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.icon {
+    position: relative;
+    cursor: default;
+    display: block;
+    opacity: 0.35;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font-size: 300%;
+    vertical-align: baseline;
+}
 </style>
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -184,32 +214,52 @@ body, html {
     If you're still not sure if you want to join the club, stop by Gym B and try us out!
   </p>
   <p class="w3-center">HOW TO JOIN</p>
-  <p>Three easy steps to joining the Husky Badminton Club:</p>
-  <ol>
-    <li>
-      Fill out the membership form. 
-    </li>
-    <li>
-      Fill out the UW Intramural Activities Waiver (only applies to those with IMA membership).
-    </li>
-    <li>
-      Pay the membership fee. For summer quarter, the fee is $20. 
-    </li>
-  </ol>
-
-  <p class="w3-center">FAQ</p>
-  <p>
-    <b>Q:</b> I don't have my own racket or shuttles, can I still come to club?
-  </p>
-  <p style="text-indent: 3em">
-    <b>A:</b> Yes! The IMA has rackets you can loan, and the club provides shuttles to play with
-  </p>
-  <p>
-    <b>Q:</b> I'm not affiliated with UW. Can I come to club?
-  </p>
-  <p style="text-indent: 3em">
-    <b>A:</b> Yes! Everyone is welcome to come play in the club. You will need to be sponsored each time you want to use the IMA. 
-  </p>
+  <div class = "w3-center" style = "width:100%;">
+    <section style = "float:left;width: 50%;">
+      <span class="icon fas fa-file-alt"></span>
+      <p>
+        FORMS
+      </p>
+      <ol style = "text-align: left;">
+        <li>
+          Fill out the <a href="HBC_Signup_17_18.pdf" target="_blank">club membership form</a>.
+        </li>
+        <li>
+          Fill out the <a href="https://reg.recreation.uw.edu/">UW Intramural Activities Waiver</a>. (Only applies to IMA members). Sign in with your NetID, and click on "Rec Clubs." Select Badminton Club and follow instructions. 
+        </li>
+      </ol>
+    </section>
+    <section style = "float:right; width: 50%;">
+      <span class="icon fas fa-money-check-alt"></span>
+      <p>
+        DUES
+      </p>
+      <ul style = "list-style-type: none;text-align: left">
+        <li>
+          Membership dues for summer quarter are $20.
+        </li>
+        <li>
+          We accept  <a href="https://venmo.com/huskybadminton" target="_blank">Venmo</a>, <a href="https://paypal.me/HuskyBadminton" target="_blank">Paypal</a>, cash, and check. 
+        </li>
+      </ul>
+    </section>
+  </div>
+  <div style= "clear:both;">  
+    <p class="w3-center">FAQ</p>
+    <p>
+      <b>Q:</b> I don't have my own racket or shuttles, can I still come to club?
+    </p>
+    <p style="text-indent: 3em">
+      <b>A:</b> Yes! The IMA has rackets you can loan, and the club provides shuttles to play with.
+    </p>
+    <p>
+      <b>Q:</b> I'm not affiliated with UW. Can I come to club?
+    </p>
+    <p style="text-indent: 3em">
+      <b>A:</b> Yes! Everyone is welcome to come play in the club. You will need to be sponsored each time you want to use the IMA. 
+    </p>
+    
+  </div>
 </div>
 
 </div>
