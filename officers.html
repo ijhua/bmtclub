@@ -16,27 +16,35 @@
       <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
         <i class="fa fa-bars"></i>
       </a>
-      <a href="#home" class="w3-bar-item w3-button">HOME</a>
-      <a href="#announcements" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-bullhorn"></i> ANNOUNCEMENTS</a>
-      <a href="#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-question-circle"></i> ABOUT</a>
-      <a href="#join" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-users"></i> JOIN</a>
-      <a href="#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-address-card"></i> CONTACT</a>
-      <div class = "dropdown w3-button w3-hide-small" style="float:right;margin-right:3%;">
+      <a href="index.html" class="w3-bar-item w3-button">HOME</a>
+      <div class = " w3-button w3-hide-small dropdown" style="float:right;margin-right:3%;">
         <button class = "dropbtn">MORE <i class="fas fa-caret-down"></i></button>
         <div class = "dropdown-content">
           <a href="officers.html">MEET THE OFFICERS</a>
         </div>
       </div>
     </div>
-
-    <!-- Navbar on small screens -->
-    <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
-      <a href="#announcements" class="w3-bar-item w3-button" onclick="toggleFunction()">ANNOUNCEMENTS</a>
-      <a href="#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
-      <a href="#join" class="w3-bar-item w3-button" onclick="toggleFunction()">JOIN</a>
-      <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
-      <a href="officers.html" class ="w3-bar-item w3-button">MEET THE OFFICERS</a>
+  </div>
+  <!-- Parallax Image with Officer Text -->
+  <div class="bgimg-5 w3-display-container w3-opacity-min" id="home">
+    <div class="w3-display-middle" style="white-space:nowrap;">
+      <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">OFFICERS</span>
     </div>
   </div>
+  <div class="w3-content w3-container w3-padding-64" id="officers">
+    <h3 class="w3-center">2018-2019 OFFICER TEAM</h3>
+  <table style="width:90%">
+    <tr>
+    <td><img src="images/officers/isabelle.jpg" style="height: 280px;width: 210px;"/><br>Isabelle Hua<br>President</td>
+    <td><img src="images/officers/travis.jpg" style="height: 280px;width: 210px;"/><br>Travis Clement<br>Vice President</td>
+    <td><img src="images/officers/anthony.jpg" style="height: 280px;width: 210px;"/><br>Anthony Chiang<br>Treasurer</td>
+  </tr>
+  <table style="width:60%">
+  <tr>
+    <td><img src="images/officers/jared.jpg" style="height: 280px;width: 210px;"/><br>Jared Lai <br>Secretary</td>
+    <td><img src="images/officers/jensen.jpg" style="height: 280px;max-width: 210px;"/><br />Jensen Yuen <br>Event Coordinator/Outreach</td>
+  </tr>
+</table>
+  </table>
 </body>
 </html>
