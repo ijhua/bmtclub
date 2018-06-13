@@ -24,10 +24,10 @@ function toggleFunction() {
 
 //Used to load the navbar
 $(function(){
-  $("#nav-placeholder").load("nav.html");
+  $("#nav-placeholder").load("nav.php");
 });
 
 //Used to load the footer
 $(function(){
-  $("#footer-placeholder").load("footer.html");
+  $("#footer-placeholder").load("footer.php");
 });
