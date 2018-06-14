@@ -109,7 +109,7 @@
         </p>
         <ol style="text-align: left;">
           <li>
-            Fill out the <a href="HBC_Signup_17_18.pdf" target="_blank">club membership form</a>.
+            Fill out the <a href="https://goo.gl/forms/PO8gbQg1Zo3PX9Cm2" target="_blank">club membership form</a>.
           </li>
           <li>
             Fill out the <a href="https://reg.recreation.uw.edu/">UW Intramural Activities Waiver</a>. (Only applies to IMA members). Sign in with your NetID, and click on "Rec Clubs." Select Badminton Club and follow instructions.
