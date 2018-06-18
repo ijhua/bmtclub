@@ -27,7 +27,7 @@
   </div>
 
   <!-- Container (Announcements Section) -->
-  <div class="w3-content w3-container w3-padding-64" class="announcements">
+  <div class="w3-content w3-container w3-padding-64" id="announcements">
     <h3 class="w3-center">ANNOUNCEMENTS</h3>
     <div id="text">
       <p>Thanks everyone for a great year! Enjoy your summer!</p>
