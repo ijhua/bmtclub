@@ -43,7 +43,7 @@
           <img src="images/officers/jared.jpg" style="height: 280px;width: 210px;" /><br>Jared Lai <br>Secretary
         </div>
         <div class="col-md" style="padding-bottom: 15px;">
-          <img src="images/officers/jensen.jpg" style="height: 280px;max-width: 210px;" /><br>Jensen Yuen <br>Event Coordinator/Outreach
+          <img src="images/officers/jensen.jpg" style="height: 280px;max-width: 210px;" /><br>Jenson Yuen <br>Event Coordinator/Outreach
         </div>
       </div>
     </div>
