@@ -38,8 +38,10 @@
         Practice is cancelled on Monday, July 2 for the Special Olympics.
       </p>
       <p>
-        Note: A few practice days are modified due to a basketball camp. <br /> On Thursday, August 9th, practice will be from 7:45 PM - 9:30 PM. <br /> On Monday, August 13th, practice will be from 7:45 PM - 9:30 PM. <br /> On Thursday, August 16th, practice
-        will be from 6:45 PM - 9:30 PM. <br />
+        Note: A few practice days are modified due to a basketball camp. <br /> 
+        Thurs, Aug 9th – 5:15pm-7:45pm <br /> 
+        Mon, Aug 13th – 5:15pm-7:45pm <br /> 
+        Thurs, Aug 16th – 4:45pm-6:45pm <br /> 
       </p>
     </div>
 
