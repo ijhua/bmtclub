@@ -31,19 +31,24 @@
     <h3 class="w3-center">ANNOUNCEMENTS</h3>
     <div id="text">
       <p>Thanks everyone for a great year! Enjoy your summer!</p>
+      
       <p>
-        Summer practices will be held Mondays and Thursdays from 6:30 PM - 9:30 PM starting Monday June 18th, and ending on Thursday August 16th.
+        Come and get to know us at our tabling events during Dawg Daze!
+        <br /> Fun and Games Night at the IMA: Sunday, September 23rd, from 5pm-7pm
+        <br /> Student Activities Fair in Red Square: Wednesday, September 26th and Thursday, September 27th, from 10am-3pm.
       </p>
       <p>
-        Practice is cancelled on Monday, July 2 for the Special Olympics.
+        Our first practice will be Thursday, September 27th, from 7pm-10pm in Gym B at the IMA!
       </p>
+      
       <p>
-        Note: A few practice days are modified due to a basketball camp. <br /> 
-        Thurs, Aug 9th – 5:15pm-7:45pm <br /> 
-        Mon, Aug 13th – 5:15pm-7:45pm <br /> 
-        Thurs, Aug 16th – 4:45pm-6:45pm <br /> 
+        The following practices will be cancelled due to home football games:
+        <br /> Saturday, September 29th
+        <br /> Saturday, October 20th
+        <br /> Saturday, November 3rd
+        <br /> Saturday, November 17th
       </p>
-    </div>
+
 
   </div>
 

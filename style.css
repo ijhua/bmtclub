@@ -20,7 +20,7 @@ section {
 
 /* Create a Parallax Effect */
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6{
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -59,6 +59,13 @@ section {
 
 .bgimg-5 {
   background-image: url("images/2018_officer_bbq.jpg");
+  min-height: 100%;
+}
+
+/*Image 6 (coaches)*/
+
+.bgimg-6 {
+  background-image: url("images/tourney.jpg");
   min-height: 100%;
 }
 
