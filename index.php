@@ -116,7 +116,7 @@
         </p>
         <ol style="text-align: left;">
           <li>
-            Fill out the <a href="https://goo.gl/forms/PO8gbQg1Zo3PX9Cm2" target="_blank">club membership form</a>.
+            Fill out the club membership form.
           </li>
           <li>
             Fill out the <a href="https://reg.recreation.uw.edu/">UW Intramural Activities Waiver</a>. (Only applies to IMA members). Sign in with your NetID, and click on "Rec Clubs." Select Badminton Club and follow instructions.
@@ -130,7 +130,7 @@
         </p>
         <ul style="list-style-type: none;text-align: left">
           <li>
-            Membership dues for summer quarter are $20.
+            Membership dues for the academic year are TBA. 
           </li>
           <li>
             We accept <a href="https://venmo.com/huskybadminton" target="_blank">Venmo</a>, <a href="https://paypal.me/HuskyBadminton" target="_blank">Paypal</a>, cash, and check.
@@ -179,7 +179,7 @@
         <div class="w3-large w3-margin-bottom">
           <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge"></i> Email: husky.badminton<span id="dummy">REMOVE</span>@gmail<span id="dummy">REMOVE</span>.com<br>
           <i class="fab fa-facebook w3-hover-text-black w3-xlarge"></i> Facebook: <a href="https://www.facebook.com/HuskyBadminton/" target="_blank">Husky Badminton Club</a><br />
-          <i class="fab fa-facebook w3-hover-text-black w3-xlarge"></i> Facebook: <a href="https://www.facebook.com/groups/138305933451331/" target="_blank">2017-2018 Group</a><br />
+          <i class="fab fa-facebook w3-hover-text-black w3-xlarge"></i> Facebook: <a href="https://www.facebook.com/groups/hbc201819/" target="_blank">2018-2019 Group</a><br />
         </div>
       </div>
     </div>
