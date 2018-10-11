@@ -30,15 +30,8 @@
   <div class="w3-content w3-container w3-padding-64" id="announcements">
     <h3 class="w3-center">ANNOUNCEMENTS</h3>
     <div id="text">
-      <p>Thanks everyone for a great year! Enjoy your summer!</p>
-      
       <p>
-        Come and get to know us at our tabling events during Dawg Daze!
-        <br /> Fun and Games Night at the IMA: Sunday, September 23rd, from 5pm-7pm
-        <br /> Student Activities Fair in Red Square: Wednesday, September 26th and Thursday, September 27th, from 10am-3pm.
-      </p>
-      <p>
-        Our first practice will be Thursday, September 27th, from 7pm-10pm in Gym B at the IMA!
+        Our first practice of the 2018-2019 school year will be Thursday, September 27th, from 7pm-10pm in Gym B at the IMA!
       </p>
       
       <p>
@@ -47,6 +40,13 @@
         <br /> Saturday, October 20th
         <br /> Saturday, November 3rd
         <br /> Saturday, November 17th
+      </p>
+      
+      <p>
+        The following practices will be cancelled due to holidays:
+        <br /> Monday, October 12th (Veteran's Day Observed)
+        <br /> Thursday, November 22th (Thanksgiving)
+        <br /> Saturday, November 24th (Thanksgiving)
       </p>
 
 
@@ -119,7 +119,7 @@
             Fill out the club membership form.
           </li>
           <li>
-            Fill out the <a href="https://reg.recreation.uw.edu/">UW Intramural Activities Waiver</a>. (Only applies to IMA members). Sign in with your NetID, and click on "Rec Clubs." Select Badminton Club and follow instructions.
+            Fill out the <a href="https://reg.recreation.uw.edu/">UW Intramural Activities Waiver</a>. (Only applies to IMA members). Sign in with your NetID, and click on "Rec Clubs." Select "Badminton Club" and follow instructions.
           </li>
         </ol>
       </section>
@@ -130,10 +130,10 @@
         </p>
         <ul style="list-style-type: none;text-align: left">
           <li>
-            Membership dues for the academic year are TBA. 
+            Membership dues for the academic year are $35 per quarter, or $90 for the year. Yearly membership includes a free club t-shirt, and discounted entry to the Husky Open!
           </li>
           <li>
-            We accept <a href="https://venmo.com/huskybadminton" target="_blank">Venmo</a>, <a href="https://paypal.me/HuskyBadminton" target="_blank">Paypal</a>, cash, and check.
+            We accept <a href="https://venmo.com/huskybadminton" target="_blank">Venmo</a>, Paypal, cash, and check.
           </li>
         </ul>
       </section>
@@ -145,13 +145,13 @@
         <b>Q:</b> I don't have my own racket or shuttles, can I still come to club?
       </p>
       <p style="text-indent: 3em">
-        <b>A:</b> Yes! The IMA has rackets you can loan, and the club provides shuttles to play with.
+        <b>A:</b> Yes! The IMA has rackets you can borrow, and the club provides shuttles to play with.
       </p>
       <p>
         <b>Q:</b> I'm not affiliated with UW. Can I come to club?
       </p>
       <p style="text-indent: 3em">
-        <b>A:</b> Yes! Everyone is welcome to come play in the club. You will need to be sponsored each time you want to use the IMA.
+        <b>A:</b> Yes! Everyone is welcome to come play in the club. You will need to be sponsored by someone each time you want to use the IMA.
       </p>
 
     </div>
