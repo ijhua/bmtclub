@@ -67,6 +67,17 @@
       US.
     </p>
     <br />
+    <div>
+        <h3 class="w3-center">CLUB HOURS</h4>
+          <p>
+            Our club meets 3 times a week. You're welcome to come as often as you like, and stay as long as you can!
+          </p>
+      <p>
+        Mondays 7-10 PM
+        <br /> Thursdays 7-10 PM
+        <br /> Saturdays 2-5 PM
+      </p>
+    </div>
     <h3 class="w3-center">WHERE WE PRACTICE</h3>
     <p>
       We normally practice in Gym B at the UW Intramural Activities Building. On weekdays, we have 4 courts on the East half of the gym, and on weekends, we have the entire gym, with 8 courts.
@@ -138,6 +149,7 @@
         </ul>
       </section>
     </div>
+  
     <div style="clear:both;">
       <br />
       <h4 class="w3-center">FAQ</h4>

@@ -25,8 +25,20 @@
   </div>
   <div class="w3-content w3-container w3-padding-64" id="coaches">
     <h3 class="w3-center">2018-2019 COACHES</h3>
-
-  </div>
+    <div class="container">
+      <div class="row align-items-center justify-content-center center">
+        <div class="col-md" style="padding-bottom: 15px;">
+          <img src="images/coaches/sam.jpg" style="height: 280px;width: 210px;" /><br>Sam Alcoba
+        </div>
+        <div class="col-md" style="padding-bottom: 15px;">
+          <img src="images/officers/derrick.jpg" style="height: 280px;width: 210px;" /><br>Derrick Ng
+        </div>
+        <div class="col-md" style="padding-bottom: 15px;">
+          <img src="images/coaches/eric.jpg" style="height: 280px;width: 210px;" /><br>Eric Yu
+        </div>
+        </div>
+      </div>
+    </div>
   <div id="footer-placeholder"></div>
 </body>
 </html>
