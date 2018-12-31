@@ -29,12 +29,13 @@
       <div class="row align-items-center justify-content-center center">
         <div class="col-md" style="padding-bottom: 15px;">
           <img src="images/coaches/sam.jpg" style="height: 280px;width: 210px;" /><br>Sam Alcoba
+          <br /> Hello! I'm Sam, and I graduated in the class of 2014 with a Bachelor's in Chemical Engineering. Currently, I work in cancer drug development at Seattle Genetics. I first played badminton my freshman year in college. My two good friends I lived with that year were both very high level badminton players and professional coaches at Seattle Badminton Club--naturally, they got me started. I loved it, so I immediately joined Husky Badminton Club as a freshman in 2010 and have been a regular ever since. I love playing with people of any skill level, old friends and new friends. In coaching, I aim to help new and experienced players alike refine good habits, as I was taught when I first started. Lastly, I hope to encourage first-time players in college with my own experience--that it's never too late to pick up badminton.
         </div>
         <div class="col-md" style="padding-bottom: 15px;">
-          <img src="images/officers/derrick.jpg" style="height: 280px;width: 210px;" /><br>Derrick Ng
+          <img src="images/coaches/derrickng.jpg" style="height: 280px;width: 210px;" /><br>Derrick Ng
         </div>
         <div class="col-md" style="padding-bottom: 15px;">
-          <img src="images/coaches/eric.jpg" style="height: 280px;width: 210px;" /><br>Eric Yu
+          <img src="images/coaches/ericyu.jpg" style="height: 280px;width: 210px;" /><br>Eric Yu
         </div>
         </div>
       </div>

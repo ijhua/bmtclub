@@ -31,24 +31,20 @@
     <h3 class="w3-center">ANNOUNCEMENTS</h3>
     <div id="text">
       <p>
-        Our first practice of the 2018-2019 school year will be Thursday, September 27th, from 7pm-10pm in Gym B at the IMA!
+        Thank you all for a great quarter! See you in January!
       </p>
       
       <p>
-        The following practices will be cancelled due to home football games:
-        <br /> Saturday, September 29th
-        <br /> Saturday, October 20th
-        <br /> Saturday, November 3rd
-        <br /> Saturday, November 17th
+        Winter Quarter practices will run from January 7th to March 7th. There will be no practice on 1/19, 1/21, 2/16, 2/18, and 3/2. 
       </p>
       
       <p>
-        The following practices will be cancelled due to holidays:
-        <br /> Monday, October 12th (Veteran's Day Observed)
-        <br /> Thursday, November 22th (Thanksgiving)
-        <br /> Saturday, November 24th (Thanksgiving)
+        Registration for the 2019 YONEX NorthWest Husky Open has opened! Sign up soon!
+        <br />
+        Event information: <a href='https://www.facebook.com/events/213035502921077/'>https://www.facebook.com/events/213035502921077/</a>
+        <br />
+        Registration: <a href = 'http://www.tournamentsoftware.com/sport/tournament.aspx?id=B21593D2-DB4C-49F9-8E16-9F8DF92B70E5'>http://www.tournamentsoftware.com/sport/events.aspx?id=B21593D2-DB4C-49F9-8E16-9F8DF92B70E5 </a>
       </p>
-
 
   </div>
 
@@ -80,7 +76,7 @@
     </div>
     <h3 class="w3-center">WHERE WE PRACTICE</h3>
     <p>
-      We normally practice in Gym B at the UW Intramural Activities Building. On weekdays, we have 4 courts on the East half of the gym, and on weekends, we have the entire gym, with 8 courts.
+      We normally practice in Gym B at the UW Intramural Activities Building. On weekdays, we have 4 courts on the East half of the gym, and on weekends, we have the entire gym, with 8 courts. Starting in Winter Quarter, we will be holding team practices every Saturday on the West Half of Gym B. 
     </p>
     <br />
     <a class="button button1" style="margin:auto;display:block;" href='https://goo.gl/maps/ZHkQSBAuf5T2' target="_blank">See on Google Maps</a>
@@ -114,6 +110,7 @@
         Tournament-grade shuttles are provided for club use
       </li>
     </ul>
+    <!---
     <p>
       If you're still not sure if you want to join the club, stop by Gym B and try us out!
     </p>
@@ -147,6 +144,10 @@
             We accept <a href="https://venmo.com/huskybadminton" target="_blank">Venmo</a>, Paypal, cash, and check.
           </li>
         </ul>
+        --->
+        <p>
+          At this time, we've met our membership cap for the remainder of the 2018-2019 academic year and will not be accepting any more new members. 
+        </p>
       </section>
     </div>
   
@@ -160,11 +161,18 @@
         <b>A:</b> Yes! The IMA has rackets you can borrow, and the club provides shuttles to play with.
       </p>
       <p>
+        <b>Q:</b> Can I join the club?
+      </p>
+      <p style="text-indent: 3em">
+        <b>A:</b> Unfortunately, we've met our membership cap for the year. If you would like to play at the club, we do allow up to 5 people to drop in per day. Our drop in fee is $5, which covers all birds for the practice. 
+      </p>
+      <p>
         <b>Q:</b> I'm not affiliated with UW. Can I come to club?
       </p>
       <p style="text-indent: 3em">
         <b>A:</b> Yes! Everyone is welcome to come play in the club. You will need to be sponsored by someone each time you want to use the IMA.
       </p>
+
 
     </div>
   </div>
